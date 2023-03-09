@@ -12,5 +12,6 @@ public class SblogApplication {
 	
 	// 2023.3.9 스프링수업시간에 만듬
 	// 이정우
+	// 깃허브 확인을 위해 한줄을 추가함
 
 }
