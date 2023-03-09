@@ -17,5 +17,11 @@ public class HelloController {
 		return "redirect:img/chat.jpg";
 		
 	}
+	
+	@GetMapping("/jsp")
+	public String jsp() {
+		System.out.println("JSP 파일이 요청됨");
+		return "hellojsp";
+	}
 
 }
